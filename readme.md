@@ -4,7 +4,7 @@ install on laptop
 
 https://www.sicara.ai/blog/2017-05-02-get-started-pyspark-jupyter-notebook-3-minutes
 # plan B
-install on virtual machine, like
+install a virtual machine that already has spark and pyspark, like
 
 https://github.com/kadnan/vagrant-spark2
 
