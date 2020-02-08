@@ -32,3 +32,7 @@ https://colab.research.google.com/github/SJD1882/Big-Data-Recommender-Systems/bl
 # example code for the shakespear homework:
 
 https://vijayn.com/2015/12/13/sparks-reduce-and-reducebykey-functions/#.Xjq9XS2ZPfY
+
+download the textfile to your local machine: in ubuntu / Linux
+* install curl: (sudo) apt install curl
+* curl -o works-shkspr.txt https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt
